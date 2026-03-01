@@ -1,5 +1,4 @@
-<![CDATA[# 👁️ Computer Vision — University Assignments
-
+# 👁️ Computer Vision — University Assignments
 A collection of three assignments for my **Computer Vision** university course, exploring classical and deep learning approaches to face analysis.
 
 Each assignment builds upon the previous one, progressively moving from traditional image processing techniques to modern deep learning architectures.
